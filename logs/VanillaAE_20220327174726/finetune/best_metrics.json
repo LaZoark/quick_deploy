@@ -1,0 +1,8 @@
+{
+    "finetune/dev/MSE": 6.385406106934512,
+    "finetune/dev/recon/MSE": 5.769628073039808,
+    "finetune/test/MSE": 7.093669442007117,
+    "finetune/test/recon/MSE": 6.369883620948122,
+    "finetune/train/MSE": 5.7020972259062574,
+    "finetune/train/recon/MSE": 5.177123937391697
+}

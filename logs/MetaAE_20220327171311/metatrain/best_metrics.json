@@ -1,0 +1,14 @@
+{
+    "metatrain/dev/MSE": 3.9420611481917534,
+    "metatrain/dev/recon/MSE": 3.4165373350444592,
+    "metatrain/test/MSE": 4.492545479222348,
+    "metatrain/test/recon/MSE": 3.55551132402922,
+    "metatrain/train/MSE": 4.360572117231625,
+    "metatrain/train/recon/MSE": 3.6256546277504462,
+    "pretrain/dev/MSE": 5.746405977951853,
+    "pretrain/dev/recon/MSE": 4.768742586437025,
+    "pretrain/test/MSE": 3.452147885372764,
+    "pretrain/test/recon/MSE": 3.0823221959565816,
+    "pretrain/train/MSE": 3.5236315768697986,
+    "pretrain/train/recon/MSE": 3.1681649664173954
+}

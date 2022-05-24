@@ -1,0 +1,20 @@
+{
+    "finetune/dev/ELBO": 59.14115274759163,
+    "finetune/dev/recon/MSE": 5.669644162170869,
+    "finetune/test/ELBO": 67.70465707420406,
+    "finetune/test/recon/MSE": 6.528898779312172,
+    "finetune/train/ELBO": 52.19581821986607,
+    "finetune/train/recon/MSE": 4.993069469480586,
+    "metatrain/dev/ELBO": 38.21970487895765,
+    "metatrain/dev/recon/MSE": 3.4931593694184957,
+    "metatrain/test/ELBO": 49.02549422414679,
+    "metatrain/test/recon/MSE": 4.610063628146523,
+    "metatrain/train/ELBO": 39.75001711659617,
+    "metatrain/train/recon/MSE": 3.6268748008843623,
+    "pretrain/dev/ELBO": 65.15000353361431,
+    "pretrain/dev/recon/MSE": 6.25029024324919,
+    "pretrain/test/ELBO": 44.373394213224714,
+    "pretrain/test/recon/MSE": 4.146036875875373,
+    "pretrain/train/ELBO": 30.99899842635445,
+    "pretrain/train/recon/MSE": 2.7922170970750892
+}

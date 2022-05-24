@@ -1,0 +1,20 @@
+{
+    "finetune/dev/MSE": 8.936324987196384,
+    "finetune/dev/recon/MSE": 8.030767032078334,
+    "finetune/test/MSE": 8.922512389065927,
+    "finetune/test/recon/MSE": 8.037964306977159,
+    "finetune/train/MSE": 8.853902529953118,
+    "finetune/train/recon/MSE": 7.887604419450114,
+    "metatrain/dev/MSE": 3.9114522682993034,
+    "metatrain/dev/recon/MSE": 3.3738249728554175,
+    "metatrain/test/MSE": 4.518958141929225,
+    "metatrain/test/recon/MSE": 3.551589238016229,
+    "metatrain/train/MSE": 4.374469459830941,
+    "metatrain/train/recon/MSE": 3.6285994501857015,
+    "pretrain/dev/MSE": 5.741375571803043,
+    "pretrain/dev/recon/MSE": 4.769776519976165,
+    "pretrain/test/MSE": 3.4853219985961914,
+    "pretrain/test/recon/MSE": 3.1316018606487073,
+    "pretrain/train/MSE": 3.504915419868801,
+    "pretrain/train/recon/MSE": 3.1330654558928117
+}

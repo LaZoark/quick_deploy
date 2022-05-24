@@ -1,0 +1,14 @@
+{
+    "metatrain/dev/ELBO": 48.333385266755755,
+    "metatrain/dev/recon/MSE": 4.504527568817139,
+    "metatrain/test/ELBO": 67.78532249049137,
+    "metatrain/test/recon/MSE": 6.486046615399812,
+    "metatrain/train/ELBO": 61.908589846127995,
+    "metatrain/train/recon/MSE": 5.842732145672753,
+    "pretrain/dev/ELBO": 70.26436113056384,
+    "pretrain/dev/recon/MSE": 6.761725689235487,
+    "pretrain/test/ELBO": 49.91295443083111,
+    "pretrain/test/recon/MSE": 4.699992631611071,
+    "pretrain/train/ELBO": 41.35996087115744,
+    "pretrain/train/recon/MSE": 3.8283134377521018
+}

@@ -1,0 +1,8 @@
+{
+    "pretrain/dev/MSE": 5.76980269582648,
+    "pretrain/dev/recon/MSE": 4.879714238016229,
+    "pretrain/test/MSE": 3.563063646617689,
+    "pretrain/test/recon/MSE": 3.199855402896279,
+    "pretrain/train/MSE": 3.5410552315090014,
+    "pretrain/train/recon/MSE": 3.16784900996996
+}

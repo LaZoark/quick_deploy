@@ -1,0 +1,8 @@
+{
+    "pretrain/dev/ELBO": 62.586288050601354,
+    "pretrain/dev/recon/MSE": 6.02887823707179,
+    "pretrain/test/ELBO": 45.052182247764186,
+    "pretrain/test/recon/MSE": 4.241164483522114,
+    "pretrain/train/ELBO": 31.870000026537024,
+    "pretrain/train/recon/MSE": 2.917635370337445
+}
